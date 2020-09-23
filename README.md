@@ -16,7 +16,7 @@ of this bot.
 - [aioredis](https://github.com/aio-libs/aioredis)
 - [flask](http://flask.pocoo.org)
 - [Docker](https://www.docker.com/)
-
+[![Run on Repl.it](https://repl.it/badge/github/cookkkie/mee6)](https://repl.it/github/cookkkie/mee6)
 ## How to contribute !
 
 If you want to create a plugin for the bot, do not hesitate to contact me in 
